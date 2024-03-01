@@ -839,7 +839,7 @@ h2 {
 }
 
 .day {
-  width: 48%;
+  width: 70%;
   /* background-color: #fff; */
   background-color: rgba(14, 27, 77, 0.1);
   /* background-color: #F2F4F9; */
@@ -880,6 +880,14 @@ h2 {
   font-size: large;
 }
 
+.event-description {
+  color: #666;
+  font-size: large;
+}
+
+.event-description li:not(:last-child) {
+   margin-bottom: 8px;
+}
 
 /*--------------------------------------------------------------
 # Responsive Media Queries
