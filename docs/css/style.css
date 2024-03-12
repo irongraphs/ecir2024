@@ -791,14 +791,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .img--fit--speakers {
-  max-width: 55%;
-  max-height: 55%;
+  max-width: 45%;
+  max-height: 45%;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.img--fit--organisers {
+.img--fit--organizers {
   max-width: 50%;
   max-height: 70%;
   display: block;
